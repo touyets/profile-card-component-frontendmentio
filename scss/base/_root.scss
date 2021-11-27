@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+:root {
+	// Front-end Style Guide
+
+	// Layout
+
+	//The designs were created to the following widths:
+
+	--mobile: 23.4375rem;
+	--desktop: 90rem;
+
+	// Colors
+
+	// Primary
+
+	--clr-primary-700: hsl(185, 75%, 39%);
+	--clr-primary-500: hsl(229, 23%, 23%);
+	--clr-primary-300: hsl(227, 10%, 46%);
+	// Neutral
+
+	--clr-neutral-300: hsl(0, 0%, 59%);
+	--clr-line: hsl(225, 10%, 92%);
+	// Typography
+
+	// Body Copy
+
+	--fs-default: 1.125rem;
+
+	// Font
+
+	--ff-default: "Kumbh Sans", sans-serif;
+	--fw-default: 400, 700;
+}
